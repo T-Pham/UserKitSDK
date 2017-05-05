@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "UserKitIdentity"
-  s.version      = "0.0.2"
+  s.version      = "0.0.3"
   s.summary      = "Extension of UserKit for manager profile"
   s.homepage     = "http://www.mstage.io/"
   s.license      = { :type => 'Apache License, Version 2.0', :file => 'LICENSE' }
